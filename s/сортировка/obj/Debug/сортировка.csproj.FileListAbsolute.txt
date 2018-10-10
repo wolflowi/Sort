@@ -1,0 +1,13 @@
+C:\Users\Ангелина\Documents\3 курс\сортировка\сортировка\bin\Debug\сортировка.exe.config
+C:\Users\Ангелина\Documents\3 курс\сортировка\сортировка\bin\Debug\сортировка.exe
+C:\Users\Ангелина\Documents\3 курс\сортировка\сортировка\bin\Debug\сортировка.pdb
+C:\Users\Ангелина\Documents\3 курс\сортировка\сортировка\obj\Debug\сортировка.csprojResolveAssemblyReference.cache
+C:\Users\Ангелина\Documents\3 курс\сортировка\сортировка\obj\Debug\сортировка.exe
+C:\Users\Ангелина\Documents\3 курс\сортировка\сортировка\obj\Debug\сортировка.pdb
+E:\файлы\шарага\3 курс\сортировка\сортировка\bin\Debug\сортировка.exe.config
+E:\файлы\шарага\3 курс\сортировка\сортировка\bin\Debug\сортировка.exe
+E:\файлы\шарага\3 курс\сортировка\сортировка\bin\Debug\сортировка.pdb
+E:\файлы\шарага\3 курс\сортировка\сортировка\obj\Debug\сортировка.csprojResolveAssemblyReference.cache
+E:\файлы\шарага\3 курс\сортировка\сортировка\obj\Debug\сортировка.csproj.CoreCompileInputs.cache
+E:\файлы\шарага\3 курс\сортировка\сортировка\obj\Debug\сортировка.exe
+E:\файлы\шарага\3 курс\сортировка\сортировка\obj\Debug\сортировка.pdb
