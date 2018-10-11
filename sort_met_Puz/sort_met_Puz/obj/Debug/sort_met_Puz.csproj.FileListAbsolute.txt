@@ -1,0 +1,6 @@
+C:\Users\Анастасия\Desktop\хаб\sort_met_Puz\sort_met_Puz\bin\Debug\sort_met_Puz.exe
+C:\Users\Анастасия\Desktop\хаб\sort_met_Puz\sort_met_Puz\bin\Debug\sort_met_Puz.pdb
+C:\Users\Анастасия\Desktop\хаб\sort_met_Puz\sort_met_Puz\obj\Debug\sort_met_Puz.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\хаб\sort_met_Puz\sort_met_Puz\obj\Debug\sort_met_Puz.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\хаб\sort_met_Puz\sort_met_Puz\obj\Debug\sort_met_Puz.exe
+C:\Users\Анастасия\Desktop\хаб\sort_met_Puz\sort_met_Puz\obj\Debug\sort_met_Puz.pdb
